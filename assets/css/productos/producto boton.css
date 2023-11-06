@@ -1,0 +1,12 @@
+.producto__boton{
+    background: red;
+    border-radius: 5px;
+    color: aliceblue;
+    padding: 1rem;
+    font-family:  'Bebas Neue';
+}
+.producto__boton:hover{
+    cursor: pointer;
+    background-color: blue;
+    color: red;
+}

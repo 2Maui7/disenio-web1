@@ -1,0 +1,11 @@
+.Cabecera{
+    align-items: center;
+    background: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.Cabecera img{
+    width: 90px;
+}

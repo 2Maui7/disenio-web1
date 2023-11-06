@@ -1,0 +1,8 @@
+.banner__titulo{
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 0;
+    text-shadow: 0 4px 4px rgb(20, 20, 21);
+    text-align: center;
+}

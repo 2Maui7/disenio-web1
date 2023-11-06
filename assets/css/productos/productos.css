@@ -1,0 +1,6 @@
+.productos{
+    background-color: darkgray;
+    display: inline-flex;
+    flex-wrap: wrap;
+
+}

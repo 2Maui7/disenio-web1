@@ -1,0 +1,6 @@
+.cabeza__items{
+    list-style: none;
+}
+.cabeza__items:last-child .cabeza__link{
+    margin-right: 0%;
+}

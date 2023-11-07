@@ -1,0 +1,10 @@
+.cabeza__link{
+    color: white;
+    margin-right: 1.25rem;
+    text-decoration: none;
+}
+.cabeza__link:hover{
+    text-decoration: underline;
+    color: goldenrod;
+    background-color: black;
+}

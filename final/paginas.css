@@ -1,0 +1,10 @@
+.paginas{
+    background-color: rgb(24, 23, 23);
+    text-align: left ;
+    display: flex;
+    color: aliceblue;
+}
+.face, .insta, .youtuve{
+    list-style: none;
+    margin-right: 1.25rem;
+}

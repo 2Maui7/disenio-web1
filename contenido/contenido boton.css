@@ -1,0 +1,13 @@
+.contenido__boton{
+    background-color: rgba(240, 255, 255, 0);
+    border-radius: 5px;
+    color: darkgoldenrod;
+    padding: 1rem;
+    font-size: 15px;
+    border-color: darkgoldenrod;
+}
+.contenido__boton:hover{
+    cursor: pointer;
+    color: black;
+    background-color: darkorange;
+}

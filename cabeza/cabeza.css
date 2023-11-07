@@ -1,0 +1,11 @@
+.cabeza{
+    background-color: rgb(24, 23, 23);
+    display: flex;
+    padding-left: 0;
+    padding-right: 0;
+}
+.logo{
+    display: flexbox;
+    justify-content: center;
+    list-style: none;
+}

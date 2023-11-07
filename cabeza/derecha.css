@@ -1,0 +1,5 @@
+.derecha{
+    display: flex;
+    text-align: right;
+    justify-content: right;
+}

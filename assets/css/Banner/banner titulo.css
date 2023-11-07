@@ -5,4 +5,17 @@
     left: 0;
     text-shadow: 0 4px 4px rgb(20, 20, 21);
     text-align: center;
+    font-size: 5rem;
+}
+@media screen and (min-width:0) {
+    .banner__titulo{
+        font-size: 3rem;
+    }
+    
+}
+@media screen and (min-width:700px) {
+    .banner__titulo{
+        font-size: 3rem;
+    }
+    
 }

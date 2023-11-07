@@ -8,4 +8,17 @@
 }
 .Cabecera img{
     width: 90px;
+    height: auto;
+}
+@media screen and (min-width:0){
+    .Cabecera{
+        padding: 0.1rem;
+        justify-content: center;
+    }
+}
+@media screen and (min-width:768px){
+    .Cabecera{
+        padding: 0.5rem;
+        justify-content: space-between;
+    }
 }

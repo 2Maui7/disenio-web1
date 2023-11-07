@@ -1,0 +1,8 @@
+.piedepagina__titulo{
+    color: gray;
+    display: flex;
+    font-family: 'Bebas Neue';
+    font-size: 2rem;
+    align-items: center;
+    padding: 1.5rem;
+}
